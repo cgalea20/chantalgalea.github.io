@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <h1>Lesson Outcome</h1>
-    <h2>The Basics</h2>
+    <title>Lesson Outcome</title>
+    <h1>The Basics</h1>
     <ol>
         <li>Setting up our dev environment</li>
         <li>How the internet works</li>
