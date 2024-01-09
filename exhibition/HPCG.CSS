@@ -12,6 +12,14 @@ body {
     width: 100%;
 }
 
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
 .navbar a {
     float: left;
     display: block;
